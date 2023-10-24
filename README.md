@@ -1,2 +1,2 @@
 # Sample-Flutter-App
-A sample dice roll modulation developed.
+A sample application developed where the user can roll the dice each time to generate a random number, which can be later used for various purposes.
